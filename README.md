@@ -4,13 +4,17 @@ A tool to calculate how long it will be till 4:20 next whether it be day or nigh
 
 ### Installation
 Download the software:
+
 `git clone https://github.com/mogad0n/420find.git`
+
 `cd 420find/`
 
 Install the dependencies:
+
 `pip install -r requirements.txt`
 
 To run:
+
 `python when420.py`
 
 ### Example
